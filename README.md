@@ -22,15 +22,15 @@ Melatih beberapa algoritma Machine Learning untuk perbandingan performa:
 Menggunakan metrik Accuracy, Precision, Recall, dan F1-Score.
 
 # Perbandingan Performa
-Logistic Regression Test F1-Score data uji: 0.7776311169827481
-Logistic Regression Training F1-Score data train: 0.7611836244396653
-Random Forest Test F1-Score data uji: 0.8334504783053709
-Random Forest Training F1-Score data train: 0.8850556635999225
-SVM Test F1-Score: 0.7797774225694617
-SVM Training F1-Score: 0.772974540678008
-XGB Test F1-Score: 0.8204638160736651
-XGB Training F1-Score: 0.9012126779391547
+- Logistic Regression Test F1-Score data uji: 0.7776311169827481
+- Logistic Regression Training F1-Score data train: 0.7611836244396653
+- Random Forest Test F1-Score data uji: 0.8334504783053709
+- Random Forest Training F1-Score data train: 0.8850556635999225
+- SVM Test F1-Score: 0.7797774225694617
+- SVM Training F1-Score: 0.772974540678008
+- XGB Test F1-Score: 0.8204638160736651
+- XGB Training F1-Score: 0.9012126779391547
 
 # Performa setelah Hyperparameter Tuning pada XGBoost 
-Train F1 XGB: 0.8625
-Test F1 XGB: 0.8323
+- Train F1 XGB: 0.8625
+- Test F1 XGB: 0.8323
